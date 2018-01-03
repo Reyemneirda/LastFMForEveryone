@@ -1,0 +1,6 @@
+framework module Pods_LastFMAGAIN___ {
+  umbrella header "Pods-LastFMAGAIN!!!-umbrella.h"
+
+  export *
+  module * { export * }
+}
